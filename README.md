@@ -1,10 +1,9 @@
 # IKurve
 IKurve - IK Rig on curve Addon for Blender
-![gifIK](./images/Animation.gif)
-
 IKurve makes it easy to create armatures along any curve in Blender. Customize your bone count, set even lengths, and add an IK rig with ease.
 
 In Object Mode – just select your curve, right-click menu, and choose "Rig along Curve".
+![gifIK](./images/Animation.gif)
 
 Custom bones count: Adjust the number of bones to match your curve.
 Even bones lenght option: Keep bones length uniform.
