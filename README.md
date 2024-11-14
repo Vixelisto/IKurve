@@ -7,7 +7,7 @@ In Object Mode – just select your curve, right-click menu, and choose "Rig alo
 
 Custom bones count: Adjust the number of bones to match your curve.
 Even bones lenght option: Keep bones length uniform.
-![gifoptions](./images/AnimationIOptions.gif)
+![gifoptions](./images/AnimationOptions.gif)
 
 One-Click IK: Set up an IK rig with an automated target in seconds.
 ![gifIK](./images/AnimationIK.gif)
