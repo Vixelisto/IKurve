@@ -3,6 +3,7 @@
 **IKurve** - IK Rig on Curve Addon for Blender
 
 IKurve makes it easy to create armatures along any curve in Blender. Customize your bone count, set even lengths, and add an IK rig with ease.
+Simplifies your workflow, whether you're crafting complex animations or just need a quick armature along a curve.
 
 ---
 
@@ -33,4 +34,4 @@ IKurve makes it easy to create armatures along any curve in Blender. Customize y
 
 ---
 
-**IKurve simplifies your workflow,** whether you're crafting complex animations or just need a quick armature along a curve.
+
