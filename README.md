@@ -34,4 +34,7 @@ Simplifies your workflow, whether you're crafting complex animations or just nee
 
 ---
 
+### What's next ?
 
+- **Invert direction:**  
+  Allow to reverse direction of the rig created along the curve"
